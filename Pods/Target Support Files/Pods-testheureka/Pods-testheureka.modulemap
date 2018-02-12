@@ -1,0 +1,6 @@
+framework module Pods_testheureka {
+  umbrella header "Pods-testheureka-umbrella.h"
+
+  export *
+  module * { export * }
+}
